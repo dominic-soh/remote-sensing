@@ -1,4 +1,4 @@
-// In this exercise you will calculate an index and enhance the image to prepare it for classification
+// Calculate an index and enhance the image to prepare it for classification
 
 
 // 1. Set initial variables
